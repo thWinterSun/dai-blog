@@ -4,7 +4,7 @@
 ## CSS 部分
 
 #### - [css 布局-左右定宽，中间自适应布局](https://github.com/thWinterSun/interview/issues/6)
-1、css布局
+1、css布局。
 2、BFC 模型
 3、Layout模式
 4、浮动与清除浮动
