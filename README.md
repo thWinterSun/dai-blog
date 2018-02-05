@@ -30,6 +30,7 @@
 #### 深拷贝与浅拷贝及实现原理
 #### 函数科里化
 #### Script 标签 defer、async区别
+#### readyonly 与 disable 区别
 
 ## 网络相关部分
 
