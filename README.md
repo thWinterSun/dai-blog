@@ -24,7 +24,7 @@
 #### js 事件，事件冒泡,事件委托,自定义事件
 #### js 节流和防抖
 #### js this 指向问题
-#### Ajax 原生写法
+#### Ajax 原生写法 (https://github.com/thWinterSun/interview/issues/11)
 #### Es6 promise 、箭头函数
 #### DOM 事件中 target 和 currentTarget 区别
 #### 深拷贝与浅拷贝及实现原理 (https://github.com/thWinterSun/interview/issues/9)
