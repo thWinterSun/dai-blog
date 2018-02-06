@@ -4,7 +4,7 @@
 ## CSS 部分
 
 #### css布局。(https://github.com/thWinterSun/interview/issues/6)
-#### BFC 模型
+#### BFC 模型 (https://github.com/thWinterSun/interview/issues/3)
 #### Layout模式
 #### 浮动与清除浮动
 #### 盒子模型和怪异盒模型（box-sizing 应用场景）
@@ -20,14 +20,14 @@
 #### js 闭包
 #### js 原型、原型链及作用域
 #### call 与 apple 与bind 区别
-#### js 继承
+#### js 继承 (https://github.com/thWinterSun/interview/issues/7)
 #### js 事件，事件冒泡,事件委托,自定义事件
 #### js 节流和防抖
 #### js this 指向问题
 #### Ajax 原生写法
 #### Es6 promise 、箭头函数
 #### DOM 事件中 target 和 currentTarget 区别
-#### 深拷贝与浅拷贝及实现原理
+#### 深拷贝与浅拷贝及实现原理 (https://github.com/thWinterSun/interview/issues/9)
 #### 函数科里化
 #### Script 标签 defer、async区别
 #### readyonly 与 disable 区别
@@ -55,7 +55,7 @@
 
 ## 算法及正则表达式
 #### 数组排序、查找、去重
-#### 斐波那契算法
+#### 斐波那契算法 (https://github.com/thWinterSun/interview/issues/8)
 #### 递归算法
 #### 排序算法
 #### 检索（二分查找）
