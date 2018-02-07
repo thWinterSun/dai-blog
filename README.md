@@ -5,7 +5,6 @@
 
 #### css布局。(https://github.com/thWinterSun/interview/issues/6)
 #### BFC 模型 (https://github.com/thWinterSun/interview/issues/3)
-#### Layout模式
 #### 浮动与清除浮动
 #### 盒子模型和怪异盒模型（box-sizing 应用场景）
 #### 居中问题（上下及左右）(https://github.com/thWinterSun/interview/issues/14)
