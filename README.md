@@ -46,8 +46,8 @@
 
 ## vue 框架相关
 
-#### vue生命周期
-#### 双向数据绑定原理
+#### vue生命周期 (https://github.com/thWinterSun/interview/issues/12)
+#### 双向数据绑定原理 (https://github.com/thWinterSun/interview/issues/12)
 #### vue-router 实现原理和思路
 #### 单向数据流与双向数据绑定
 #### 虚拟DOM理解
