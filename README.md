@@ -40,7 +40,7 @@
 #### 浏览器缓存 session cookie (expires、cache-control、Etag、last-Modified)
 #### http 200 与 304 区别 （from catch）
 #### 前端跨域（jsonp和 cors）
-#### HTTP状态码 http 2.0、HTTPS
+#### HTTP、HTTPS、http 2.0
 #### Get 与 Post请求区别
 #### Webscoket 理解
 
