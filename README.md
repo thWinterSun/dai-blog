@@ -4,9 +4,8 @@
 ## CSS 部分
 
 #### css布局。(https://github.com/thWinterSun/interview/issues/6)
-#### 浮动与清除浮动
-#### BFC 模型 (https://github.com/thWinterSun/interview/issues/3)
-#### IE hasLayout 
+#### 浮动与清除浮动 (https://github.com/thWinterSun/interview/issues/15)
+#### BFC 与 IE hasLayout   (https://github.com/thWinterSun/interview/issues/3)
 #### 盒子模型和怪异盒模型（box-sizing 应用场景）
 #### 居中问题（上下及左右）(https://github.com/thWinterSun/interview/issues/14)
 #### px/em/rem区别
