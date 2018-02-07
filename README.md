@@ -8,7 +8,7 @@
 #### Layout模式
 #### 浮动与清除浮动
 #### 盒子模型和怪异盒模型（box-sizing 应用场景）
-#### 居中问题（上下及左右）
+#### 居中问题（上下及左右）(https://github.com/thWinterSun/interview/issues/14)
 #### px/em/rem区别
 #### css 媒体查询
 #### css3相关,如animation/transition
