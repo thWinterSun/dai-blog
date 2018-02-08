@@ -41,7 +41,7 @@
 #### 前端跨域（jsonp和 cors）
 #### HTTP、HTTPS (https://github.com/thWinterSun/interview/issues/5)
 #### http2.0 (https://github.com/thWinterSun/interview/issues/13)
-#### Get 与 Post请求区别
+#### TCP 与 UDP 差别
 #### Webscoket 理解
 
 ## vue 框架相关
