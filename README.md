@@ -36,8 +36,8 @@
 #### 页面加载整个流程，页面渲染流程
 #### 前端性能优化
 #### 图片按需加载和懒加载。
-#### 浏览器缓存 session cookie (expires、cache-control、Etag、last-Modified)
-#### http 200 与 304 区别 （from catch）
+#### 浏览器缓存  (https://github.com/thWinterSun/interview/issues/16)
+#### 浏览器存储
 #### 前端跨域（jsonp和 cors）
 #### HTTP、HTTPS (https://github.com/thWinterSun/interview/issues/5)
 #### http2.0 (https://github.com/thWinterSun/interview/issues/13)
