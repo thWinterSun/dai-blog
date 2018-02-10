@@ -54,6 +54,10 @@
 #### 虚拟DOM理解
 #### 状态管理原理
 
+## jQuery 相关
+#### jQuery 插件运行机制
+#### jQuery 事件委托机制
+#### jQuery $ 符号冲突解决办法
 ## 算法及正则表达式
 #### 数组排序、查找、去重
 #### 斐波那契算法 (https://github.com/thWinterSun/interview/issues/8)
