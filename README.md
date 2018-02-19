@@ -18,13 +18,13 @@
 #### js 数据类型及判断方法
 #### js 闭包
 #### js 原型、原型链及作用域
-#### call 与 apple 与bind 区别
+#### call 与 apple 与bind 区别 (https://github.com/thWinterSun/interview/issues/20)
 #### js 继承 (https://github.com/thWinterSun/interview/issues/7)
 #### js 事件，事件冒泡,事件委托,自定义事件
 #### js 节流和防抖
 #### js this 指向问题
 #### Ajax 与 websocket (https://github.com/thWinterSun/interview/issues/11)
-#### Es6 promise 、箭头函数
+#### Es6 promise 、箭头函数 (https://github.com/thWinterSun/interview/issues/18)
 #### DOM 事件中 target 和 currentTarget 区别
 #### 深拷贝与浅拷贝及实现原理 (https://github.com/thWinterSun/interview/issues/9)
 #### 函数科里化
@@ -77,7 +77,7 @@
 #### Git 流程
 
 ## web安全
-#### xss 原理及防范
+#### xss 原理及防范 (https://github.com/thWinterSun/interview/issues/19)
 #### 跨站请求伪造原理及防范
 
 ## 其他
