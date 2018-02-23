@@ -33,7 +33,7 @@
 
 ## 网络相关部分
 
-#### 页面加载整个流程，页面渲染流程
+#### 页面加载整个流程，页面渲染流程 （https://github.com/thWinterSun/interview/issues/17）
 #### 前端性能优化
 #### 图片按需加载和懒加载。
 #### 浏览器缓存  (https://github.com/thWinterSun/interview/issues/16)
@@ -82,7 +82,7 @@
 
 ## 其他
 
-#### 浏览器内核及渲染过程
+#### 浏览器内核
 #### 线程与进程
 #### AMD和CMD规范区别
 #### 错误监控
