@@ -24,7 +24,7 @@
 #### js 节流和防抖
 #### js this 指向问题
 #### Ajax 与 websocket (https://github.com/thWinterSun/interview/issues/11)
-#### Es6 promise 、箭头函数 (https://github.com/thWinterSun/interview/issues/18)
+#### Es6 相关 (https://github.com/thWinterSun/interview/issues/18)
 #### DOM 事件中 target 和 currentTarget 区别
 #### 深拷贝与浅拷贝及实现原理 (https://github.com/thWinterSun/interview/issues/9)
 #### 函数科里化
@@ -79,6 +79,7 @@
 ## web安全
 #### xss 原理及防范 (https://github.com/thWinterSun/interview/issues/19)
 #### 跨站请求伪造原理及防范
+#### 点击劫持、HTTP劫持、会话劫持、ifrom劫持
 
 ## 其他
 
