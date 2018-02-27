@@ -15,7 +15,7 @@
 
 ## JavaScript 部分
 
-#### js 数据类型及判断方法
+#### js 数据类型及判断方法 (https://github.com/thWinterSun/interview/issues/23)
 #### js 闭包
 #### js 原型、原型链及作用域
 #### call 与 apple 与bind 区别 (https://github.com/thWinterSun/interview/issues/20)
