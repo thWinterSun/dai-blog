@@ -28,6 +28,9 @@
 #### DOM 事件中 target 和 currentTarget 区别
 #### 深拷贝与浅拷贝及实现原理 (https://github.com/thWinterSun/dai-blog/issues/9)
 #### 函数科里化
+#### 浏览器模型及渲染原理
+#### JS解析过程
+#### JS运行机制
 #### Script 标签 defer、async区别
 #### readyonly 与 disable 区别
 
