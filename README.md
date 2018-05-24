@@ -82,7 +82,7 @@
 ## web安全
 #### xss 原理及防范 (https://github.com/thWinterSun/dai-blog/issues/19)
 #### 跨站请求伪造原理及防范
-#### 点击劫持、HTTP劫持、会话劫持、ifrom劫持
+#### 点击劫持、HTTP劫持、会话劫持、ifrom劫持\DNS 劫持
 
 ## 其他
 #### 项目遇到的难点与解决办法及收获
